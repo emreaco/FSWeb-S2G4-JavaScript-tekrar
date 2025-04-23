@@ -97,7 +97,7 @@ let ucetambolunenler,
   siralisayilar,
   tekraredensayilar;
 
-// 3a çözümü
+// 3a çözümü test
 
 /* kodlar buraya */
 
